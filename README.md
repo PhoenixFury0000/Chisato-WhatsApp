@@ -2,7 +2,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevBll52JIK90iRAzEXZYHffkGAjPknwv9vSwraePZqjaOZsTsMRm3Ank&s=10" alt="nz" width="350"/>
 </p>
 
-## ***Chisato-WhatsApp***
+## ***yurie-WhatsApp***
 > This Script WhatsApp Bot Using Library Baileys & Script is free for everyone, not for Sale!
 > ***Note: it's a modified version of [WhatsApp-bot](https://github.com/LuckyYam/WhatsApp-bot)***
 </br>
@@ -43,7 +43,7 @@
 
 ## Contact me 🍪
 
-<a href="https://wa.me/923224875937">
+<a href="https://wa.me/917973456275">
   <img src="https://img.shields.io/badge/Support_Owner-0a0a0a?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
