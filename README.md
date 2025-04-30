@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/bdd281b87aaa6f4ee0a67.jpg" alt="nz" width="350"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRevBll52JIK90iRAzEXZYHffkGAjPknwv9vSwraePZqjaOZsTsMRm3Ank&s=10" alt="nz" width="350"/>
 </p>
 
 ## ***Chisato-WhatsApp***
@@ -7,10 +7,10 @@
 > ***Note: it's a modified version of [WhatsApp-bot](https://github.com/LuckyYam/WhatsApp-bot)***
 </br>
 
-<a href="https://github.com/AliAryanTech/"><img title="Author" src="https://img.shields.io/badge/Author-AliAryanTech-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp"><img title="Stars" src="https://img.shields.io/github/stars/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
-<a href="https://github.com/AliAryanTech/Chisato-WhatsApp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AliAryanTech/Chisato-WhatsApp?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+<a href="https://github.com/PhoenixFury0000/"><img title="Author" src="https://img.shields.io/badge/Author-AliAryanTech-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/PhoenixFury0000/Chisato-WhatsApp"><img title="Stars" src="https://img.shields.io/github/stars/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/PhoenixFury0000/Chisato-WhatsApp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AliAryanTech/Chisato-WhatsApp?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/PhoenixFury0000/Chisato-WhatsApp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AliAryanTech/Chisato-WhatsApp?label=watchers&color=54aeff&style=flat-square" /></a> <br>
 
 ---
 
@@ -49,6 +49,3 @@
 
 </br>
 
-## Thanks To
-* [`Shinei | Whatshell`](https://github.com/LuckyYam/)
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
